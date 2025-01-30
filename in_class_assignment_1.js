@@ -18,3 +18,9 @@ if (student_score > 60) {
 } else {
     console.log("Failed");
 }
+
+//Practice Problem #3
+for (let i = 10; i >= 1; i--) {
+    console.log("Count Down:", i);
+    
+}
