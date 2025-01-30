@@ -31,3 +31,9 @@ while (count <= 10) {
     console.log("Counting Up:", count);
     count += 2;
 }
+
+//Practice Problem #5
+function calculateSquare(num) {
+    return num * num;
+}
+console.log(calculateSquare(5));
