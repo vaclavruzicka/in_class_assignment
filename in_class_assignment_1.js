@@ -22,5 +22,12 @@ if (student_score > 60) {
 //Practice Problem #3
 for (let i = 10; i >= 1; i--) {
     console.log("Count Down:", i);
-    
+
+}
+
+//Practice Problem #4
+let count = 2;
+while (count <= 10) {
+    console.log("Counting Up:", count);
+    count += 2;
 }
